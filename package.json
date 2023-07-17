@@ -1,0 +1,11 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Prueba equipo 8",
+  "main": "proyecto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo08",
+  "license": "ISC"
+}
