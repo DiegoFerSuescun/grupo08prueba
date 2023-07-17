@@ -6,3 +6,5 @@
 function saludoDiego(){
     console.log('Hola soy Diego Suescun');
 };
+
+
